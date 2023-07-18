@@ -6,13 +6,13 @@ Seu programa deve ler os alunos dos cursos A, B e C do instrutor Alex, depois mo
   
 How many students for course A? 3  
 21  
-35
+35  
 22  
 How many students for course B? 2  
 21  
 50  
 How many students for course C? 3  
 42  
-35
+35  
 13  
 Total students: 6  
